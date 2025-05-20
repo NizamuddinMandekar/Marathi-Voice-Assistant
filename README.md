@@ -1,4 +1,4 @@
-# Marathi Voice Assistant
+# Marathi-Voice-Assistant
 
 An interactive Marathi Voice Assistant that provides answers to questions based on the contents of a Marathi PDF document. The system extracts text from the PDF, processes it, and uses machine learning to provide the most relevant answers. The responses are then converted into speech using Google Text-to-Speech (gTTS).
 
